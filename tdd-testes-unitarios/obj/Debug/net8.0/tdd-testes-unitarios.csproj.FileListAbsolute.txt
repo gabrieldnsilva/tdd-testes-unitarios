@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.AssemblyInfo.cs
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\bin\Debug\net8.0\tdd-testes-unitarios.exe
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\bin\Debug\net8.0\tdd-testes-unitarios.deps.json
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\bin\Debug\net8.0\tdd-testes-unitarios.runtimeconfig.json
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\bin\Debug\net8.0\tdd-testes-unitarios.dll
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\bin\Debug\net8.0\tdd-testes-unitarios.pdb
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.dll
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\refint\tdd-testes-unitarios.dll
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.pdb
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\tdd-testes-unitarios.genruntimeconfig.cache
+C:\Users\Admin\Documents\dio-bootcamp-react-c#\tdd-testes-unitarios\tdd-testes-unitarios\obj\Debug\net8.0\ref\tdd-testes-unitarios.dll
